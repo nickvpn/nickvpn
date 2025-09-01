@@ -1,4 +1,4 @@
-<img width="1068" height="514" alt="landingimg1" src="https://github.com/nickvpn/nickvpn/blob/main/landingimage1.png?raw=true" />
+<img width="1068" height="514" alt="landingimg1" src="https://github.com/nickvpn/nickvpn/blob/main/landingimg1.png" />
 
 currently working on:
 
