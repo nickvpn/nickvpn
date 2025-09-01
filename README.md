@@ -7,10 +7,14 @@ currently working on:
 
 part of an [awesome super cool lab](https://research.fit.edu/nets/)
 
-*The Return of the King, Book 5, Chapter VI, Paragraph*
-> Then without taking counsel or waiting for the approach of the men of the City, he spurred headlong back to the front of the great host, and blew a horn, and cried aloud for the onset. Over the field rang his clear voice calling: 
+
+
+> Then without taking counsel or waiting for the approach of the men of the City, he spurred headlong back to the front of the great host, and blew a horn, and cried aloud for the onset. Over the field rang his clear voice calling:  
+>  
+> *‘Death! Ride, ride to ruin and the world’s ending!’*  
 >
-> *‘Death! Ride, ride to ruin and the world’s ending!’*
+> <sub>— *The Return of the King*, Book V, Chapter VI
+
 
   
 <!--
