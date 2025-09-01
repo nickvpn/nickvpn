@@ -1,9 +1,16 @@
-<img width="1068" height="514" alt="landingimg1" src="https://github.com/user-attachments/assets/80637548-0d82-422f-9a55-703a149c6543" />
+<img width="1068" height="514" alt="landingimg1" src="https://github.com/nickvpn/nickvpn/blob/main/landingimage1.png?raw=true" />
 
 currently working on:
 
-- surviving my semester
-- acting productive
+- surviving [data structures](https://cs.fit.edu/~pkc/classes/ds/)
+- surviving [deep learning](https://github.com/rtwhite1546/Fall-2025-Deep-Learning)
+
+part of an [awesome super cool lab](https://research.fit.edu/nets/)
+
+*The Return of the King, Book 5, Chapter VI, Paragraph*
+> Then without taking counsel or waiting for the approach of the men of the City, he spurred headlong back to the front of the great host, and blew a horn, and cried aloud for the onset. Over the field rang his clear voice calling: 
+>
+> *‘Death! Ride, ride to ruin and the world’s ending!’*
 
   
 <!--
