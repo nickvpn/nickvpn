@@ -1,7 +1,11 @@
 <img width="1068" height="514" alt="landingimg1" src="https://github.com/user-attachments/assets/80637548-0d82-422f-9a55-703a149c6543" />
-currently working on
+
+currently working on:
+
 - surviving my semester
 - acting productive
+
+  
 <!--
 **nickvpn/nickvpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
