@@ -1,12 +1,5 @@
 <img width="1068" height="514" alt="landingimg1" src="https://github.com/nickvpn/nickvpn/blob/main/landingpage2.png" />
 
-currently working on:
-
-- surviving [data structures](https://cs.fit.edu/~pkc/classes/ds/)
-- surviving [deep learning](https://github.com/rtwhite1546/Fall-2025-Deep-Learning)
-
-part of an [awesome super cool lab](https://research.fit.edu/nets/)
-
 
 
 > Then without taking counsel or waiting for the approach of the men of the City, he spurred headlong back to the front of the great host, and blew a horn, and cried aloud for the onset. Over the field rang his clear voice calling:  
